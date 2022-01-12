@@ -1,10 +1,9 @@
 This was the final project for CMPS 360- Applied Computing II: How to Think Like a Data Scientist at Hollins University in Spring 2020.
-The project provided students with the chance to complete an in-depth analysis of a dataset of their choice. Questions, Answers, and completed 
-code were written by Megan Bull and Akshita Agarwal. Sources are included in the Jupyter notebook.
+
+The project provided students with the chance to complete an in-depth analysis of a dataset of their choice. Questions, Answers, and completed code were written by Megan Bull and Akshita Agarwal. Sources are included in the Jupyter notebook.
 
 We decided to complete our analysis on Airbnb listings in Washington, D.C. 
 
-Although the code is presented in a Jupyter notebook, if you would like to run it yourself you will need to download a shapefile for D.C.
-and its accomanying neighborhood boundaries (found here: https://opendata.dc.gov/datasets/f6c703ebe2534fc3800609a07bad8f5b_17). 
+Although the code is presented in a Jupyter notebook, if you would like to run it yourself you will need to download a shapefile for D.C. and its accomanying neighborhood boundaries (found here: https://opendata.dc.gov/datasets/f6c703ebe2534fc3800609a07bad8f5b_17). 
 
 If you choose to change the names of the shapefile once it has been downloaded, make sure to change the read file line. 
